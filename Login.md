@@ -8,7 +8,7 @@ Precondition
 ID           | Steps        | Result
 ------------ | ------------ | -------------
 1 | 1 Enter new valid email and click sign up | transition to the password entry page ![img](https://prnt.sc/14jmwww)
-  | 2 Enter new password **up to 7 symbols inclusive** and tap sign up | You will receive a message informs that "Password is to short": ![img](https://prnt.sc/14jnhc9)
+- | 2 Enter new password **up to 7 symbols inclusive** and tap sign up | You will receive a message informs that "Password is to short": ![img](https://prnt.sc/14jnhc9)
 
 2) New user sign up. Long password
 
