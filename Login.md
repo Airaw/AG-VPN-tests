@@ -2,9 +2,9 @@
 
 Steps        | Result
 ------------ | -------------
-1. Open AdGuard for android VPN | Successful launch application to login page
-2. Enter new valid email and click sign up | Successfully transition to the password entry page ![img](https://prnt.sc/14jmwww)
-3. Enter new password **up to 7 symbols inclusive** and tap sign up | You will receive a message informs that "Password is to short": ![img](https://prnt.sc/14jnhc9)
+Open AdGuard for android VPN | Successful launch application to login page
+Enter new valid email and click sign up | Successfully transition to the password entry page ![img](https://prnt.sc/14jmwww)
+Enter new password **up to 7 symbols inclusive** and tap sign up | You will receive a message informs that "Password is to short": ![img](https://prnt.sc/14jnhc9)
 
 2) New user sign up. Long password
 Steps       | Result
