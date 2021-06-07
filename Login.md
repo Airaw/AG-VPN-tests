@@ -15,21 +15,21 @@ Steps       | Result
 
 3) New user sign up.
 Steps       | Result
------------ | -----------
+------------ | -------------
 1. Open AdGuard for android VPN | Successful launch application to login page
 2. Enter new valid email and click sign up | Successfully transition to the password entry page
 3. Enter new password then tap on "Next" | Sign in succesfull
 
 4) Valid User sing up
 Steps       | Result
------------ | -----------
+------------ | -------------
 1. Open AdGuard for android VPN | Successful launch application to login page
 2. Enter valid email and tap on sign up | You will be transferred to the password entry page, and receive a message informs that you already have an account with this email
 3. Enter valid user password then tap on "Next" | Sign in succesfull
 
 5) Valid User sign in
 Steps       | Result
------------ | -----------
+------------ | -------------
 1. Open AdGuard for android VPN | Successful launch of aplication to login page
 2. Tap on Sign in with AdGuard account | Log in method changed to sign in
 3. Enter valid email and click sign in | Successfully transition to the password entry page
@@ -38,7 +38,6 @@ Steps       | Result
 6) Valid User, wrong password
 Steps       | Result
 ----------- | -----------
-Open AdGuard for android VPN | Successful launch application to login page
 1. Open AdGuard for android VPN | Successful launch
 2. Tap on Sign in with AdGuard account | Log in method changed to "sign in"
 3. Enter valid email and click sign in | Successfully transition to the password entry page
@@ -46,21 +45,21 @@ Open AdGuard for android VPN | Successful launch application to login page
 
 7) Function show password 
 Steps       | Result
------------ | -----------
+------------ | -------------
 1. Open AdGuard for android VPN | Successful launch application to login page
 2. Enter valid email and click sign up | You will be transferred to the password entry page, and receive a message informs that you already have an account with this email
 3. Enter symbols to password field and tap on closed eye | you'll see entered symbols on password field: ![img](https://prnt.sc/14jzwea)
 
 8) Forgot password link check
 Steps       | Result
------------ | -----------
+------------ | -------------
 1. Open AdGuard for android VPN | Successful launch application to login page
 2. Enter valid email and click sign up | You will be transferred to the password entry page, and receive a message informs that you already have an account with this email
 3. Tap on Forgot password? |  You'll be transferred to password recovery web page: ![img](https://prnt.sc/14k0lbu)
 
 9) Function forgot password
 Steps       | Result
------------ | -----------
+------------ | -------------
 1. Open AdGuard for android VPN | Successful launch application to login page
 2. Enter valid email and click sign up | You will be transferred to the password entry page, and receive a message informs that you already have an account with this email
 3. Tap on Forgot password? |  You'll be transferred to password recovery web page
@@ -68,7 +67,7 @@ Steps       | Result
 
 10) Sign in with Google
 Steps       | Result
------------ | -----------
+------------ | -------------
 1.Open AdGuard for android VPN | Successful launch application to login page
 2. Tap on Google logo image | After loading you'll be transferred to google accounts page
 3.
