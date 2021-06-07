@@ -38,7 +38,7 @@ Precondition
 **ID 6)** Valid User, wrong password
 №            | Steps        | Result
 ------------ | ------------ | -------------
-1 | Tap on Sign in with AdGuard account | Log in method changed to "sign in" ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+1 | Tap on Sign in with AdGuard account | Log in method changed to "sign in"
 2 | Enter valid email and click sign in | transition to the password entry page
 3 | Enter incorrect password | You will receive a message informs about wrong password: ![img](https://prnt.sc/14jxs6r)
 
