@@ -70,5 +70,5 @@ Steps       | Result
 ------------ | -------------
 1 | Open AdGuard for android VPN | Successful launch application to login page
 2 | Tap on Google logo image | After loading you'll be transferred to google accounts page
-3.
+3 |
 
